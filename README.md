@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Shimu-I/Generalizable-Multi-Age-Dyslexia-Detection)
+![GitHub last commit](https://img.shields.io/github/last-commit/shimu-i/Generalizable-Multi-Age-Dyslexia-Detection)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shimu-i/Generalizable-Multi-Age-Dyslexia-Detection)
+
 # Generalizable Multi-Age Dyslexia Detection
 
 > [!IMPORTANT]
